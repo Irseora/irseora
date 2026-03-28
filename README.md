@@ -18,13 +18,13 @@
                             &#8226; Neural Networks<br/>
                             &#8226; Web Dev<br/>
                             &#8226; Gaming & Game Dev
-                        <td/>
+                        </td>
                         <td width="50%" valign="top">
                             &#8226; Mathematics<br/>
                             &#8226; Robotics<br/>
                             &#8226; Gaming & Game Dev<br/>
                             &#8226; Like, everything tbh
-                        <td/>
+                        </td>
                     <tr/>
                 </table>
             </p>
