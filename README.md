@@ -1,5 +1,5 @@
 <h1 align="center">🌸 Irseora 🌸</h1>
-<table style="width: 100%">
+<table style="width:100%">
     <tr>
         <td width="50%" valign="top">
             <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3hoMnY4bmpyNjAxejZhOWw5M2ZvcnU0aHdrMDR3dzR6ZWZjM3BlNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/gY8Bs8qvD1EukQBj5V/giphy.gif">
@@ -12,18 +12,18 @@
             <p>
                 <b>Interests:</b><br/>
                 <table>
-                    <tr>
-                        <td width="33%">
+                    <tr style="text-align: center">
+                        <td width="33%" valign="top">
                             &#8226; Autonomous Systems<br/>
                             &#8226; Neural Networks<br/>
                             &#8226; Reinforcement Learning
                         <td/>
-                        <td width="33%">
-                            &#8226; Robotics
+                        <td width="33%" valign="top">
+                            &#8226; Robotics<br/>
                             &#8226; Web Dev<br/>
                             &#8226; Gaming & Game Dev<br/>
                         <td/>
-                        <td width="33%">
+                        <td width="33%" valign="top">
                             &#8226; Mathematics<br/>
                             &#8226; UX Design<br/>
                             &#8226; Like, everything tbh
