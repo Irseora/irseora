@@ -11,8 +11,8 @@
             </p>
             <p>
                 <b>Interests:</b><br/>
-                <table>
-                    <tr style="text-align: center">
+                <table style="width:100%">
+                    <tr>
                         <td width="50%" valign="top">
                             &#8226; Autonomous Systems<br/>
                             &#8226; Neural Networks<br/>
