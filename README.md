@@ -1,5 +1,5 @@
 <h1 align="center">🌸 Irseora 🌸</h1>
-<table style="width:100%">
+<table width="100%">
     <tr>
         <td width="50%" valign="top">
             <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3hoMnY4bmpyNjAxejZhOWw5M2ZvcnU0aHdrMDR3dzR6ZWZjM3BlNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/gY8Bs8qvD1EukQBj5V/giphy.gif">
@@ -11,7 +11,7 @@
             </p>
             <p>
                 <b>Interests:</b><br/>
-                <table style="width:100%">
+                <table width="100%">
                     <tr>
                         <td width="50%" valign="top">
                             &#8226; Autonomous Systems<br/>
