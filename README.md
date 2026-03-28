@@ -11,7 +11,7 @@
             </p>
             <p>
                 <b>Interests:</b><br/>
-                <table width="100%">
+                <table width="100%" style="overflow:hidden;">
                     <tr>
                         <td width="50%" valign="top">
                             &#8226; Autonomous Sys<br/>
