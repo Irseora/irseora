@@ -6,8 +6,30 @@
         </td>
         <td width="50%" valign="top">
             <p>
-                <b>Studying:</b>
+                <b>Studying:</b><br/>
                 Computer Science for Autonomous Systems
+            </p>
+            <p>
+                <b>Interests:</b><br/>
+                <table>
+                    <tr>
+                        <td width="33%">
+                            &#8226; Autonomous Systems<br/>
+                            &#8226; Neural Networks<br/>
+                            &#8226; Reinforcement Learning
+                        <td/>
+                        <td width="33%">
+                            &#8226; Robotics
+                            &#8226; Web Dev<br/>
+                            &#8226; Gaming & Game Dev<br/>
+                        <td/>
+                        <td width="33%">
+                            &#8226; Mathematics<br/>
+                            &#8226; UX Design<br/>
+                            &#8226; Like, everything tbh
+                        </td>
+                    <tr/>
+                </table>
             </p>
             <p>
                 <b>Skills:</b><br/>
