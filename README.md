@@ -14,7 +14,7 @@
                 <table width="100%">
                     <tr>
                         <td width="50%" valign="top">
-                            &#8226; Autonomous Systems<br/>
+                            &#8226; Autonomous Sys<br/>
                             &#8226; Neural Networks<br/>
                             &#8226; Web Dev<br/>
                             &#8226; Gaming & Game Dev
