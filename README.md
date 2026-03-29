@@ -6,10 +6,10 @@
         </td>
         <td width="50%" valign="top">
             <p>
-                <b>Studying:</b><br/>
-                <span align="center">
+                <b>Studying:</b>
+            </p>
+            <p align="center">
                     Computer Science for Autonomous Systems
-                </span>
             </p>
             <p>
                 <b>Interests:</b><br/>
@@ -32,7 +32,9 @@
             </p>
             <p>
                 <b>Skills:</b><br/>
-                <img src="https://skillicons.dev/icons?i=c,cs,cpp,py,pytorch,bash,js,nodejs,react,html,css,php,mongo,mysql,godot,latex,arduino,raspberrypi&perline=6" align="center" />
+                <p align="center">
+                    <img src="https://skillicons.dev/icons?i=c,cs,cpp,py,pytorch,bash,js,nodejs,react,html,css,php,mongo,mysql,godot,latex,arduino,raspberrypi&perline=6" />
+                </p>
             </p>
         </td>
     </tr>
