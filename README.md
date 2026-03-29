@@ -24,7 +24,7 @@
                         <td width="50%" valign="top">
                             &#8226; Mathematics<br/>
                             &#8226; Robotics<br/>
-                            &#8226; Gaming & Game Dev<br/>
+                            &#8226; UX Design<br/>
                             &#8226; Like, everything tbh
                         </td>
                     <tr/>
