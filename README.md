@@ -25,7 +25,7 @@
                             &#8226; Mathematics<br/>
                             &#8226; Robotics<br/>
                             &#8226; UX Design<br/>
-                            &#8226; Like, everything tbh
+                            &#8226; Like, everything
                         </td>
                     <tr/>
                 </table>
