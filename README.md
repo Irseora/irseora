@@ -1,7 +1,7 @@
 <h1 align="center">🌸 Irseora 🌸</h1>
 <table width="100%">
     <tr>
-        <td width="50%" valign="top">
+        <td width="50%" valign="center">
             <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3hoMnY4bmpyNjAxejZhOWw5M2ZvcnU0aHdrMDR3dzR6ZWZjM3BlNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/gY8Bs8qvD1EukQBj5V/giphy.gif">
         </td>
         <td width="50%" valign="top">
