@@ -7,11 +7,13 @@
         <td width="50%" valign="top">
             <p>
                 <b>Studying:</b><br/>
-                Computer Science for Autonomous Systems
+                <span style="text-align: center">
+                    Computer Science for Autonomous Systems
+                </span>
             </p>
             <p>
                 <b>Interests:</b><br/>
-                <table width="100%" style="overflow:hidden;">
+                <table width="100%" style="overflow:hidden">
                     <tr>
                         <td width="50%" valign="top">
                             &#8226; Autonomous Sys<br/>
@@ -30,7 +32,7 @@
             </p>
             <p>
                 <b>Skills:</b><br/>
-                <img src="https://skillicons.dev/icons?i=c,cs,cpp,py,pytorch,bash,js,nodejs,react,html,css,php,mongo,mysql,godot,latex,arduino,raspberrypi&perline=6" />
+                <img src="https://skillicons.dev/icons?i=c,cs,cpp,py,pytorch,bash,js,nodejs,react,html,css,php,mongo,mysql,godot,latex,arduino,raspberrypi&perline=6" style="text-align: center" />
             </p>
         </td>
     </tr>
